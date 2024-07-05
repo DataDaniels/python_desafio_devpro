@@ -2,7 +2,7 @@
     <img src="https://apexensino.com.br/wp-content/uploads/2020/05/python-1280x640.jpg" alt="Descrição da Imagem" width="600"/>
 </p>
 
-# Softwares utilizando código na linguagem de programação Python 👨🏻‍💻
+# Softwares com código na linguagem de programação Python 👨🏻‍💻
 ## python_desafio_devpro 🐍
 
 Este repositório contém notebooks de código python onde podemos encontrar pequenos softwares ou mesmo tratamentos de dados.
